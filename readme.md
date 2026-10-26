@@ -19,4 +19,4 @@ nabis is a web platform that syncs with user's spotify account, fetches its foll
 - spotify api
 
 #### workflow diagram
-[workflow diagram](./docs/diagram.png)
+![workflow diagram](./docs/diagram.png)
